@@ -16,7 +16,7 @@
       <section class="container">
       <div class="meats">
         <p class="h2" id="BGpink">Chicken</p>
-        <p class="p2">Chick - Combine the chicken and shrimp in a mixing bowl along with 4 teaspoons of soy sauce and 2 teaspoons sesame oil. Sprinkle with cornstarch, and mix until evenly.</p>
+        <p class="p2">Chick - very easy to make simply Combine the chicken and shrimp in a mixing bowl along with 4 teaspoons of soy sauce and 2 teaspoons sesame oil. Sprinkle with cornstarch, and mix until evenly put it on the gas and mix with salt etc.</p>
       </div>
     </section>
     </div>
@@ -25,7 +25,7 @@
     <section class="container">
     <div class="meats">
       <p class="h2" id="BGred">Beef</p>
-      <p class="p2">Beef - Combine the chicken and shrimp in a mixing bowl along with 4 teaspoons of soy sauce and 2 teaspoons sesame oil. Sprinkle with cornstarch, and mix until evenly.</p>
+      <p class="p2">Beef - very popularDrizzle the beef with oil and season well with sea salt and black pepper, then rub all over the meat. Place the beef on top of the vegetables. Place the tray in the oven, then turn the heat down immediately to 200°C/400°F/gas 6 and cook for 1 hour for medium beef..</p>
     </div>
     </section>
   </div>
@@ -34,7 +34,7 @@
     <section class="container">
     <div class="meats">
       <p class="h2" id="BGyellow">Sushi</p>
-      <p class="p2">Sushi - Combine the chicken and shrimp in a mixing bowl along with 4 teaspoons of soy sauce and 2 teaspoons sesame oil. Sprinkle with cornstarch, and mix until evenly.</p>
+      <p class="p2">Sushi - CDrizzle the beef with oil and season well with sea salt and black pepper, then rub all over the meat. Place the beef on top of the vegetables. Place the tray in the oven, then turn the heat down immediately to 200°C/400°F/gas 6 and cook for 1 hour for medium beef..</p>
     </div>
   </section>
   </div>
