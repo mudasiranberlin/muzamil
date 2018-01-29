@@ -1,44 +1,28 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="css/styles.css">
-<title>Our Menu</title>
-
-</head>
-<body>
-
-<h1>Our Menu</h1> 
-
-<div class="row">
-    <div class="col-lg-4 col-md-6 col-sm-12">
-      <section class="container">
-      <div class="meats">
-        <p class="h2" id="BGpink">Chicken</p>
-        <p class="p2">Chick - very easy to make simply Combine the chicken and shrimp in a mixing bowl along with 4 teaspoons of soy sauce and 2 teaspoons sesame oil. Sprinkle with cornstarch, and mix until evenly put it on the gas and mix with salt etc.</p>
-      </div>
-    </section>
-    </div>
-  
-  <div class="col-lg-4 col-md-6 col-sm-12">
-    <section class="container">
-    <div class="meats">
-      <p class="h2" id="BGred">Beef</p>
-      <p class="p2">Beef - very popularDrizzle the beef with oil and season well with sea salt and black pepper, then rub all over the meat. Place the beef on top of the vegetables. Place the tray in the oven, then turn the heat down immediately to 200°C/400°F/gas 6 and cook for 1 hour for medium beef..</p>
-    </div>
-    </section>
-  </div>
-
-  <div class="col-lg-4 col-md-12 col-sm-12">
-    <section class="container">
-    <div class="meats">
-      <p class="h2" id="BGyellow">Sushi</p>
-      <p class="p2">Sushi - CDrizzle the beef with oil and season well with sea salt and black pepper, then rub all over the meat. Place the beef on top of the vegetables. Place the tray in the oven, then turn the heat down immediately to 200°C/400°F/gas 6 and cook for 1 hour for medium beef..</p>
-    </div>
-  </section>
-  </div>
-</div>
-
-</body>
+	<head>
+		<title>Hank Quinlan, Horrible Cop</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">CV</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, I'm Hank Quinlan!</h1>
+				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+			</ul>
+		</footer>
+	</body>
 </html>
